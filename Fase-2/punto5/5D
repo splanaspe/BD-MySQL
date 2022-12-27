@@ -1,0 +1,3 @@
+Producto 5 ejercicio 5
+5D. Hacer una relación de los proveedores de Verduras y Hortalizas.
+SELECT * FROM proveedor_categoria WHERE idCategoria='6';

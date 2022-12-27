@@ -1,0 +1,7 @@
+6E. Borrar los productos elaborados que nunca se hayan vendido. Para ello deberás revisar la tabla COMANDA_ELABORADOS.
+
+He mirado en comanda_elaborados los productos elaborados pedidos y los he apuntado, luego he ido a la tabla elaborado y he comprobado que el 1051 y 1052 no se habian utilizado y a traves de la sentencia los he borrado.
+
+SELECT * FROM elaborado;
+
+ DELETE FROM elaborado WHERE id = 1052;

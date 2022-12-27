@@ -1,0 +1,3 @@
+Producto 2 ejercicio 5
+5H. Mostrar los productos que contengan alérgenos.
+SELECT * FROM alergeno_producto;

@@ -1,0 +1,16 @@
+IdProducto,NombreProducto,unidad,Alerta_Stock,idCategorIa,Tipo,Conservación
+2001,Pechuga marinada,kilos,30,2,INGREDIENTE,Guardar limpio en el refrigerador en bolsas de congelación
+1101,Sal de Himalaya,kilos,2,11,INGREDIENTE,Guardar en un lugar seco
+1102,Pimienta dulce,kilos,5,11,INGREDIENTE,Guardar en un lugar fresco y seco
+1103,Hierbas provenzales,kilos,5,11,INGREDIENTE,Guardar en un lugar fresco y seco
+1104,Orégano,kilos,5,11,INGREDIENTE,Guardar en un lugar fresco y seco
+1105,Romero,kilos,2,11,INGREDIENTE,Guardar en un lugar fresco y seco
+1106,Laurel en hojas,kilos,5,11,INGREDIENTE,Guardar en un lugar fresco y seco
+1107,Ajo,kilos,10,11,INGREDIENTE,"Guardar en lugar fresco, seco y alejado de la luz"
+1002,Aceite de maíz,litro,20,1,INGREDIENTE,Guardar en un lugar oscuro de la despensa
+6005,Malla de Limón (500gr),unidad,36,6,INGREDIENTE,Guardar en una bolsa sellada en el cajón de frigorífico
+1607,Harina de trigo (1 kg),unidad,240,16,INGREDIENTE,Guardar en un lugar fresco y seco
+1701,Salsa Worcester,unidad,360,17,INGREDIENTE,Guardar en un lugar fresco y seco
+1501,Copa de nata con café,unidad,70,15,ELABORADO,
+1502,Flan de huevo (100g),unidad,70,15,ELABORADO,
+4001,Cápsulas de cafè cappuccino (16 cápsulas),unidad,20,4,ELABORADO,

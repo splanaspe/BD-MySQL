@@ -1,0 +1,13 @@
+PRODUCTO 4. GESTIÓN DE USUARIOS
+
+    4. Realizar las siguientes creaciones de usuarios y privilegios y anotar la sentencia SQL y su salida en un documento (PARTE 1):
+        A. Crear el usuario administrador llamado admin, que tendrá todos los privilegios sobre la base de datos de nuestro proyecto.
+        B. El usuario administrador crea 2 usuarios más, uno llamado ‘encargado’ y el otro llamado ‘camarero’.
+        C. A partir de los dos usuarios nuevos creados por el administrador, pensar y dar los privilegios que creas oportunos sobre las tablas y atributos de la base de datos. Justificar la respuesta.
+        D. Realizar una tabla ACL (Access Control Lists) con control de acceso discrecional (DAC), dónde pueda verse la distribución de privilegios para cada usuario:
+        (ver tabla en: https://aula.uoc.edu/courses/1367/assignments/11100?module_item_id=29735 )
+
+
+    5. Realizar una infografía con los principales puntos de la normativa de protección de datos actual.
+
+    6. A partir de la normativa legal vigente, indicar que términos de nuestro proyecto se ven afectados o podrían ser susceptibles de serlo (PARTE 2).
